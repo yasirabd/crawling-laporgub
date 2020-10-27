@@ -1,0 +1,5 @@
+beautifulsoup4==4.9.2
+Scrapy==2.3.0
+scrapy-selenium==0.0.7
+selenium==3.141.0
+webdriver-manager==3.2.2
