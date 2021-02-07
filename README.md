@@ -1,2 +1,2 @@
 # crawling-laporgub
-Crawling data laporan Lapor Gubernur Jawa Tengah
+Crawling data laporan [Lapor Gubernur Jawa Tengah](https://laporgub.jatengprov.go.id/)
